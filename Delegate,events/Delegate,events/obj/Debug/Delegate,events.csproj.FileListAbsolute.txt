@@ -1,0 +1,7 @@
+C:\Users\Rom4n\source\repos\Delegate,events\Delegate,events\bin\Debug\Delegate,events.exe.config
+C:\Users\Rom4n\source\repos\Delegate,events\Delegate,events\bin\Debug\Delegate,events.exe
+C:\Users\Rom4n\source\repos\Delegate,events\Delegate,events\bin\Debug\Delegate,events.pdb
+C:\Users\Rom4n\source\repos\Delegate,events\Delegate,events\obj\Debug\Delegate,events.csprojAssemblyReference.cache
+C:\Users\Rom4n\source\repos\Delegate,events\Delegate,events\obj\Debug\Delegate,events.csproj.CoreCompileInputs.cache
+C:\Users\Rom4n\source\repos\Delegate,events\Delegate,events\obj\Debug\Delegate,events.exe
+C:\Users\Rom4n\source\repos\Delegate,events\Delegate,events\obj\Debug\Delegate,events.pdb
